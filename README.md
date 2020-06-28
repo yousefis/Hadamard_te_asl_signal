@@ -11,3 +11,9 @@ Hadamard time encoded arterial spin labeling signal
       year={2019},
       organization={Springer}
     }
+
+
+<p>
+    <img src="figures/plots.bmp" alt>
+    <em>Hadamard time-encoded arterial spin labeling signal plots for different parameter values.</em>
+</p>
