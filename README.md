@@ -15,5 +15,5 @@ Hadamard time encoded arterial spin labeling signal
 
 <p>
     <img src="plots.bmp" alt>
-    <em>Hadamard time-encoded arterial spin labeling signal plots for different parameter values.</em>
+    <em>Hadamard time-encoded arterial spin labeling signal plots for different parameter values for one of the sub-boluses.</em>
 </p>
