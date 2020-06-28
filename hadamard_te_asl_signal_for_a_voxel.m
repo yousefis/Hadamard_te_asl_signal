@@ -3,7 +3,7 @@ function hadamard_te_asl_signal_for_a_voxel()
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%           Develper: Sahar Yousefi
 % This program plots the hadamard time encoded arterial spin labeling
-% signal for Hadamard matrix of rank 8 in a voxel
+% signal for Hadamard matrix of rank 8 in large arteries
 %% Please cite the below paper:
 %  @inproceedings{yousefi2019fast,
 %  title={Fast Dynamic Perfusion and Angiography Reconstruction 
