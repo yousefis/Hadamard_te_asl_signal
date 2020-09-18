@@ -2,6 +2,7 @@
 Hadamard time encoded arterial spin labeling signal
 # If this repository helps you in anyway, show your love :heart: by putting a :star: on this project 
 
+For more details refer to:
 # Citation
     @inproceedings{yousefi2019fast,
       title={Fast Dynamic Perfusion and Angiography Reconstruction Using an End-to-End 3D Convolutional Neural Network},
@@ -17,3 +18,4 @@ Hadamard time encoded arterial spin labeling signal
     <img src="plots.bmp" alt>
     <em>Hadamard time-encoded arterial spin labeling signal plots for different parameter values for one of the sub-boluses.</em>
 </p>
+
